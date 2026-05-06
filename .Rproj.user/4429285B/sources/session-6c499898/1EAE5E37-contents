@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gwyneth Stolo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: projects.qmd
+        text: Projects
+
+format:
+  html:
+    theme:
+      - sandstone
+    css: styles.css
+    toc: true
+
+editor: visual
+

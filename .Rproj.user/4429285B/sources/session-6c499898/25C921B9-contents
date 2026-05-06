@@ -1,0 +1,16 @@
+---
+title: "gstolo-website-final"
+---
+
+---
+title: 'Welcome!'
+image: images/G_Norway.JPG
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gwyneth-stolo
+---
+
+Hi! My name is Gwyneth Stolo and I am a current graduate student and park ranger. My interests include community ecology, global change ecology, palentology, cave and karst geology, and science interpretation.
